@@ -1,0 +1,27 @@
+# Ant
+ant/
+
+# Maven
+target/
+
+# Eclipse
+.classpath
+.project
+.settings/
+bin/
+
+# IDEA
+*.iws
+*.ipr
+*.iml
+.idea/
+out/
+/report/allure-report-app/node_modules/*
+/build/
+/.allure/
+/report/allure-report-app/allure-report-serviceAccountKey.json
+/platform-tests-ui/.allure/
+
+**/allure-results/**
+**/.allure/**
+**/target/**
